@@ -5,7 +5,7 @@ http://aima.cs.berkeley.edu/
 
 ## VIDEOS   
 #### LINEAR ALGEBRA
-###### KHAN ACADEMY    
+* KHAN ACADEMY    
 https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0    
 ###### MIT - Gilbert Strang 
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
