@@ -7,9 +7,9 @@ http://aima.cs.berkeley.edu/
 #### LINEAR ALGEBRA
 * KHAN ACADEMY    
 https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0    
-###### MIT - Gilbert Strang 
+* MIT - Gilbert Strang    
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm
-###### FAST-AI    
+* FAST-AI    
 https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
 
 #### OTHERS
